@@ -1,0 +1,12 @@
+{
+  "name": "trabalho_estagiario",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Você é o estagiário de uma empresa de produção de conteúdo e deve fazer uma lista com 100 exercícios para os alunos poderem treinar bem para prova e você ficou responsável por criar esses templates.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
