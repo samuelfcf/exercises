@@ -7,5 +7,3 @@ Cada um desses exercícios deve estar em arquivos `.txt` separados e nomeados de
 > Lista 1 - Cálculo 1 - Exercício [Número do Exercício]
 
 Diante disso, você parou e pensou: "Olha só o trabalhão que vai dar criar todos esses templates". Aí, você decidiu criar tudo usando NodeJS.
-
-Usando o módulo `fs` com `fs.writeFileSync`, faça um programa NodeJS que crie os 100 arquivos propostos no diretório local.
