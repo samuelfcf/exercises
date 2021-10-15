@@ -1,0 +1,17 @@
+INSERT INTO "produtos" ("nome", "preco", "condicao") VALUES
+  ('Televisão 43"', 139997, 'novo'),
+  ('Televisão 55"', 250000, 'seminovo'),
+  ('Notebook Entrada', 200000, 'seminovo'),
+  ('Notebook Intermediário', 350000, 'novo'),
+  ('Notebook Topo de Linha', 600000, 'novo'),
+  ('Celular Entrada', 80000, 'seminovo'),
+  ('Celular Intermediário', 160000, 'usado'),
+  ('Celular Topo de Linha', 340000, 'usado'),
+  ('Pelúcia Strange Planet com Gatinho', 7051, 'novo'),
+  ('Violão Lava ME 2', 860000, 'seminovo'),
+  ('Bicicleta Elétrica', 370000, 'usado'),
+  ('Fone Entrada', 2000, 'novo'),
+  ('Fone Intermediário', 20000, 'seminovo'),
+  ('Fone Topo de Linha', 80000, 'usado'),
+  ('Televisão 32"', 100000, 'usado'),
+  ('Televisão 75"', 700000, 'seminovo');
