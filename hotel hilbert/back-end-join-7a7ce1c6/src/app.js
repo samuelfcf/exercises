@@ -19,6 +19,11 @@ app.get('/allocations', async (req, res) => {
         JOIN guests 
           ON guests.id = allocations."guestId";`)
 
+    result.rows = result.rows.map(v => ({
+      ...v,
+      startDate: new Date(value.startDate).toLocaleString("pt-br")
+    }))
+
     res.status(200).send(result.rows);
   } catch (err) {
     console.error(err.message);
